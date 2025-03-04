@@ -3,7 +3,8 @@
 
 <a href="https://github.com/Mariannapodbrscek/7daysofcode_day_6">Visualiza mi repositorio</a>
 
-
+________________________________________
+#7daysofcode #dia6
 
 ¿Recuerdas el pequeño programa que creaste ayer para hacer tu propia lista de compras? ¡Hoy tu desafío es hacerlo aún más interesante!
 
